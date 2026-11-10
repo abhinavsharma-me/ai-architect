@@ -4,6 +4,8 @@ Welcome to my personal notes on learning how to design serious AI systems.
 
 I am sharing what I learn while going from the fundamentals to advanced enterprise AI architecture. These notes are written for me first, and for anyone else who finds them useful.
 
+## Find the things here
+[Day 1](/notes/day-001.md)
 ## What I am learning
 
 This is much deeper than learning how to call an LLM API. The topics connect:
