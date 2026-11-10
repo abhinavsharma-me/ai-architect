@@ -6,6 +6,11 @@ I am sharing what I learn while going from the fundamentals to advanced enterpri
 
 ## Find the things here
 [Day 1](/notes/day-001.md)
+
+more to come soon!
+
+
+
 ## What I am learning
 
 This is much deeper than learning how to call an LLM API. The topics connect:
