@@ -1,4 +1,4 @@
-# My AI Systems Architecture Notes
+# My Notes for becoming an Principal AI Architect
 
 Welcome to my personal notes on learning how to design serious AI systems.
 
