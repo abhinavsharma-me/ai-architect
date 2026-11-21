@@ -4,12 +4,13 @@ Welcome to my personal notes on learning how to design serious AI systems.
 
 I am sharing what I learn while going from the fundamentals to advanced enterprise AI architecture. These notes are written for me first, and for anyone else who finds them useful.
 
+While I am learning to become a Principal AI Architect, I am also building Vendorguard, You may refer [here](https://github.com/abhinavsharma-me/vendorguard)
+
 ## Find the things here
 [Day 1](/notes/day-001.md)
+[Day 2](/notes/day-002.md)
 
 more to come soon!
-
-
 
 ## What I am learning
 
@@ -37,33 +38,4 @@ Some notes may be beginner-friendly. Others will go very deep into distributed s
 
 ## How I organize the notes
 
-I use one Markdown file for each learning day:
-
-```text
-notes/day-001.md
-notes/day-002.md
-...
-```
-
-The notes are not meant to look like polished course chapters. They are working notes that become clearer over time. When useful, I link code and deeper documents from the note.
-
-Start with [`docs/knowledge-map.md`](docs/knowledge-map.md), then look through [`notes/`](notes/).
-
-## Repository map
-
-```text
-.
-├── README.md                    # Personal introduction and notes index
-├── docs/
-│   ├── knowledge-map.md         # Topics I am exploring
-│   ├── architecture/            # Diagrams and design notes
-│   ├── adrs/                    # Decisions I have written down
-│   ├── security-compliance/     # Security and compliance notes
-│   └── operations/              # Reliability and operations notes
-├── notes/                       # My day-by-day learning notes
-├── templates/                   # Lightweight note helpers
-└── projects/
-    └── truebases-nexus/         # A project used to apply the ideas
-```
-
-These are personal learning notes, not legal, security, compliance, or production-operational advice. Standards, laws, provider behavior, and cloud pricing can change, so verify them before relying on them.
+I use one Markdown file for each learning day, the notes are written by me in the learning & structured by ChatGPT [ Obv.. I will not strcutre them in this AI ERA]
