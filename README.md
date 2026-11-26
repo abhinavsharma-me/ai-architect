@@ -9,6 +9,7 @@ While I am learning to become a Principal AI Architect, I am also building Vendo
 ## Find the things here
 [Day 1](/notes/day-001.md)
 [Day 2](/notes/day-002.md)
+[Day 3](/notes/day-003.md)
 
 more to come soon!
 
