@@ -39,4 +39,4 @@ Some notes may be beginner-friendly. Others will go very deep into distributed s
 
 ## How I organize the notes
 
-I use one Markdown file for each learning day, the notes are written by me in the learning & structured by ChatGPT [ Obv.. I will not strcutre them in this AI ERA]
+I create one Markdown file for each learning day, the notes are written by me & structured by ChatGPT [ Obv.. I will not strcutre them in this AI ERA]
